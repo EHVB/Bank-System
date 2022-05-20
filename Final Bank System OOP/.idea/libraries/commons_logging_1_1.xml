@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="commons-logging-1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BankSystemOOP/lib/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BankSystemOOP/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BankSystemOOP/lib/junit-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BankSystemOOP/lib/log4j-1.2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BankSystemOOP/lib/poi-3.8-20120326.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BankSystemOOP/lib/poi-examples-3.8-20120326.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BankSystemOOP/lib/poi-excelant-3.8-20120326.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BankSystemOOP/lib/poi-ooxml-3.8-20120326.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BankSystemOOP/lib/poi-ooxml-schemas-3.8-20120326.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BankSystemOOP/lib/poi-scratchpad-3.8-20120326.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BankSystemOOP/lib/stax-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BankSystemOOP/lib/xmlbeans-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
